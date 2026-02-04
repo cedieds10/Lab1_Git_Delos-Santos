@@ -1,5 +1,1 @@
-print("Lab 1: Version Control")
-print("Author:[Peter Cedric C. Delos Santos]")
-print("Student ID: TUPM-25-0068") 
-print("Class Section: [BSECE-1A]")
-print("Login Feature Enabled")
+SYSTEM ERROR: CRITICAL FAILURE
